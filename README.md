@@ -17,4 +17,4 @@ This is a web application for confessing secrets anonymously. The application is
 9. You need to login to view confessions or comment.
 10. You can confess images or memes also.
 
-Subscribe my channel: https://www.youtube.com/@trachitz?themeRefresh=1
+Subscribe my channel: https://www.youtube.com/@trachitz
